@@ -1,3 +1,7 @@
+font-jetbrains-mono
+visual-studio-code
+obs
+postman
 node
 synergy
 intellij-idea
@@ -20,3 +24,4 @@ cloudfoundry/tap/bosh-cli
 hashicorp/tap/nomad
 hashicorp/tap/terraform
 snyk
+bitwarden

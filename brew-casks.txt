@@ -1,5 +1,0 @@
-synergy
-font-jetbrains-mono
-visual-studio-code
-obs
-postman
