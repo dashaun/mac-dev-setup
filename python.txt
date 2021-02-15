@@ -1,0 +1,6 @@
+echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
+pyenv install 3.9.0
+pyenv global 3.9.0
+
+pip3 install ipykernel bash_kernel RISE
+python3 -m bash_kernel.install

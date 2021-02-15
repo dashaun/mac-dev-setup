@@ -1,0 +1,4 @@
+homebrew/cask-fonts
+k14s/tap
+hashicorp/tap
+snyk/tap
