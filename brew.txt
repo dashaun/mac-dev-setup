@@ -25,3 +25,4 @@ hashicorp/tap/nomad
 hashicorp/tap/terraform
 snyk
 bitwarden
+slack
