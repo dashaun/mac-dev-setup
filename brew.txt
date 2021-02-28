@@ -1,3 +1,4 @@
+dotnet-sdk
 font-jetbrains-mono
 visual-studio-code
 obs
@@ -25,4 +26,9 @@ hashicorp/tap/nomad
 hashicorp/tap/terraform
 snyk
 bitwarden
+bitwarden-cli
 slack
+golang
+goland
+golangci-lint
+
